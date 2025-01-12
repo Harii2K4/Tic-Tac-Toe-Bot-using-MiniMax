@@ -2,7 +2,7 @@
 ## Screenshots
 
 ### Main Screen
-![Main Screen](src/assets/main_screenss.png)
+![Main Screen](src/assets/main_screen_ss.png)
 
 ### GameSetup Mode
 ![GameSetup Mode](src/assets/game_setup_ss.png )
