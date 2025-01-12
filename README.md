@@ -1,4 +1,14 @@
 # Tic Tac Toe Web App
+## Screenshots
+
+### Main Screen
+![Main Screen](assets/main)
+
+### GameSetup Mode
+![GameSetup Mode](assets/screenshots/multiplayer-mode.png)
+
+### MainScreen Mode
+![MainScreen Mode](assets/screenshots/bot-mode.png)
 
 This is a **Tic Tac Toe** web application built using **Vite** and **React**. The app allows players to:
 
