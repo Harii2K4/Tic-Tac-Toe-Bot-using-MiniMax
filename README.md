@@ -2,13 +2,13 @@
 ## Screenshots
 
 ### Main Screen
-![Main Screen](assets/main)
+![Main Screen](assets/main_screenss.png)
 
 ### GameSetup Mode
-![GameSetup Mode](assets/screenshots/multiplayer-mode.png)
+![GameSetup Mode](assets/game_setup_ss.png )
 
 ### MainScreen Mode
-![MainScreen Mode](assets/screenshots/bot-mode.png)
+![MainScreen Mode](assets/game_screen.png)
 
 This is a **Tic Tac Toe** web application built using **Vite** and **React**. The app allows players to:
 
